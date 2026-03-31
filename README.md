@@ -13,7 +13,7 @@ O ClientManager é uma API REST desenvolvida como evolução do meu projeto ante
 
 ### Tecnologias
 
-- Java 21
+- Java 24
 - Spring Boot 3.4
 - Spring Web (REST)
 - Spring Data JPA + Hibernate
@@ -46,7 +46,7 @@ exception/    → exceções customizadas e handler global
 
 ### Como rodar localmente
 
-**Pré-requisitos:** Java 21, PostgreSQL, Maven
+**Pré-requisitos:** Java 24, PostgreSQL, Maven
 
 1. Clone o repositório
 ```bash
@@ -94,7 +94,7 @@ ClientManager is a REST API developed as an evolution of my previous project bui
 
 ### Tech Stack
 
-- Java 21
+- Java 24
 - Spring Boot 3.4
 - Spring Web (REST)
 - Spring Data JPA + Hibernate
@@ -127,7 +127,7 @@ exception/    → custom exceptions and global handler
 
 ### Running locally
 
-**Requirements:** Java 21, PostgreSQL, Maven
+**Requirements:** Java 24, PostgreSQL, Maven
 
 1. Clone the repository
 ```bash
